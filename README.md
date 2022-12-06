@@ -1,4 +1,4 @@
-# My Awesome Project
+# 2022-Portfolio
 Thanks for checking out my professional portfolio. A rolling showcase of my work and skills to potential employers and fellow collaborators.
 
 **Link to project:** [http://lvconsulting.online]
@@ -16,3 +16,4 @@ HTML is the markup language that is used to structure a web page. It defines the
 ## Final Product:
 
 More Updates coming soon...Stay Updated for more projects added to the list.
+![Capture](https://user-images.githubusercontent.com/64934558/206009362-d3835037-eded-4f2f-a36b-65a8cf2936d0.PNG)
