@@ -3,7 +3,7 @@ Thanks for checking out my professional portfolio. A rolling showcase of my work
 
 **Link to project:** [http://lvconsulting.online]
 
-![alt tag][(https://lvconsulting.online/)]
+[(https://lvconsulting.online/)]
 
 ## How It's Made:
 
