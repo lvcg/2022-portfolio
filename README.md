@@ -1,9 +1,6 @@
 # 2022-Portfolio
 Thanks for checking out my professional portfolio. A rolling showcase of my work and skills to potential employers and fellow collaborators.
 
-**Link to project:** [http://lvconsulting.online]
-
-[(https://lvconsulting.online/)]
 
 ## How It's Made:
 
